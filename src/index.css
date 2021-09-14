@@ -1,0 +1,46 @@
+
+
+body {
+background: radial-gradient(circle, rgba(0,173,236,1) 0%, rgba(48,55,143,1) 100%);;
+color: black;
+display: block;
+max-width: 300px;
+margin-left: auto;
+margin-right: auto;
+}
+
+.person {
+    
+    
+}
+
+.person h1 {
+background-color: #30378F;
+color: white;
+text-align: center;
+font-family:sans-serif;
+border-radius: 30%;
+box-shadow: 3px 3px #898EBF;
+}
+
+.person p {
+background-color: #898EBF;
+font-size: larger;
+font-family: sans-serif;
+text-align: center;
+border-radius: 20%;
+box-shadow: 3px 3px white;
+}
+
+.person li {
+    background-color: #260304;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+    border-radius: 35%;
+}
+
+.person ul {
+    background-color:#260304;
+    border-radius: 20%;
+    box-shadow:3px 3px #30378F;
